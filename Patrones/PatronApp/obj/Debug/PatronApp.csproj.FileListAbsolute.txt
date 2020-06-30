@@ -1,0 +1,14 @@
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\bin\Debug\PatronApp.exe.config
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\bin\Debug\PatronApp.exe
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\bin\Debug\PatronApp.pdb
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\MainWindow.g.cs
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\App.g.cs
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp_MarkupCompile.cache
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp_MarkupCompile.lref
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\MainWindow.baml
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.g.resources
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.Properties.Resources.resources
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.csproj.GenerateResource.cache
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.exe
+C:\Users\Nicolas Zuñiga\source\repos\Patrones\PatronApp\obj\Debug\PatronApp.pdb
